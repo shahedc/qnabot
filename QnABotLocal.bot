@@ -1,0 +1,18 @@
+{
+    "name": "QnABotLocal",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "1168c740-7771-11e9-8538-d96171fad2e7",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\shchowd\\Documents\\GitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\11.qnamaker\\QnABotLocal.bot"
+}
